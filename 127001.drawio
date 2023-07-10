@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T17:01:18.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" version="21.6.1" etag="GgUh2wpD-bqN8tJy8sCe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T17:11:00.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="vCU9Z6UDfZ62zuX2w2zH" version="21.6.1" type="github">
   <diagram name="Page-1" id="XdAAOLgP9NdOsi4QCyfx">
-    <mxGraphModel>
+    <mxGraphModel dx="1628" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="165" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-1" value="PROYECTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-2" value="MODELO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-3" value="vias_acceso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-4" value="zonas_comerciales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-5" value="parques" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-9" value="superficie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="35" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-10" value="base" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-11" value="espacios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-12" value="distribution" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="35" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
