@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T17:11:00.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="vCU9Z6UDfZ62zuX2w2zH" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T17:18:23.453Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="5-HrcWTu79Qd8zMKzKtM" version="21.6.1" type="github">
   <diagram name="Page-1" id="XdAAOLgP9NdOsi4QCyfx">
     <mxGraphModel dx="1628" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,27 @@
         </mxCell>
         <mxCell id="_x3G2PLomy-d9E2IPFaM-12" value="distribution" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="35" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-14" value="LOTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-15" value="CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-16" value="estado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-17" value="etapa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-18" value="ubicación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-19" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;precio&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="15" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_x3G2PLomy-d9E2IPFaM-20" value="efecto_aplicacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
